@@ -175,3 +175,5 @@ Currently exploring machine learning concepts and building beginner-friendly pro
 ⭐ **Thanks for visiting my profile!**
 
 </div>
+
+<!-- Profile README -->
